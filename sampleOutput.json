@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sonia Moghe, CNN",
+            "title": "Closing arguments underway in Johnny Depp and Amber Heard defamation trial - CNN",
+            "description": "After more than 100 hours of testimony over six weeks, closing arguments began on Friday in the defamation trial between Johnny Depp and Amber Heard.",
+            "url": "https://www.cnn.com/2022/05/27/entertainment/johnny-depp-amber-heard-trial/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220524111724-01-johnny-depp-amber-heard-trial-split-super-tease.jpg",
+            "publishedAt": "2022-05-27T18:15:00Z",
+            "content": "(CNN)After more than 100 hours of testimony over six weeks, closing arguments began on Friday in the defamation trial between Johnny Depp and Amber Heard.\r\nDepp sued Heard for $50 million over a 2018… [+876 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Claire Jackson",
+            "title": "Steam Deck’s Latest Update Is Sure To Stir Debate - Kotaku",
+            "description": "Valve's efforts to quiet the device could inadvertently lower its lifespan—or maybe not",
+            "url": "https://kotaku.com/steam-deck-os-update-3-2-valve-fan-noise-lifespan-1848986918",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f80331de4385fe7848f2d5d876224919.jpg",
+            "publishedAt": "2022-05-27T17:45:00Z",
+            "content": "Today, Valve released a highly-anticipated update to its portable PC. SteamOS 3.2 brings a lot of fun changes to both the operating system and the Steam client itself, enabling Remote Play Together, … [+3292 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dow Jones Rallies On Inflation Data; Tesla Pops As Elon Musk Issues This Warning; Apple Stock Surges - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMimAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLXJhbGxpZXMtb24taW5mbGF0aW9uLWRhdGEtdGVzbGEtcG9wcy1hcy1lbG9uLW11c2staXNzdWVzLXdhcm5pbmctYXBwbGUtc3RvY2stc3VyZ2VzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-05-27T17:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "ESPN",
+            "title": "Jurgen Klopp on Mohamed Salah 'revenge' talk ahead of Champions League final: 'No one has to worry' - ESPN",
+            "description": "Liverpool boss Jurgen Klopp has downplayed talk of wanting revenge against Real Madrid in Saturday's Champions League final.",
+            "url": "https://www.espn.com/soccer/liverpool-engliverpool/story/4675972/jurgen-klopp-on-mohamed-salah-revenge-talk-ahead-of-champions-league-final-no-one-has-to-worry",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0527%2Fr1018113_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-05-27T17:21:55Z",
+            "content": "Liverpool boss Jurgen Klopp has downplayed talk of wanting revenge against Real Madrid in Saturday's Champions League final, and said that midfielders Fabinho and Thiago Alcantara have given the club… [+4021 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Juan Lozano",
+            "title": "Amid protests, NRA meets in Texas after school massacre - The Associated Press",
+            "description": "HOUSTON (AP) — The National Rifle Association began its annual convention in Houston amid protests Friday, three days after a gunman killed 19 students and two teachers  at an elementary school on the other side of the state, renewing the national debate over…",
+            "url": "https://apnews.com/article/uvalde-school-shooting-nra-convention-212dfd1b57474f1ab208d4a72521a010",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/9bbbfb0af08245a2b4734ad67eb39eb3/3000.jpeg",
+            "publishedAt": "2022-05-27T17:08:21Z",
+            "content": "HOUSTON (AP) The National Rifle Association began its annual convention in Houston amid protests Friday, three days after a gunman killed 19 students and two teachers at an elementary school on the o… [+7456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Ben Protess, William K. Rashbaum, Jonah E. Bromwich",
+            "title": "Trump’s Lawsuit Against Letitia James Is Dismissed - The New York Times",
+            "description": "Mr. Trump had argued that an inquiry by the attorney general, Letitia James, violated his constitutional rights. It was his second legal loss in two days.",
+            "url": "https://www.nytimes.com/2022/05/27/nyregion/trump-letitia-james-ny.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/05/27/nyregion/27trump/merlin_205278324_2588a8ff-d548-4b08-bacc-a1fa18bbbf39-facebookJumbo.jpg",
+            "publishedAt": "2022-05-27T16:53:24Z",
+            "content": "While Ms. Jamess public statements could reflect political or personal animus toward Mr. Trump, the judge said, her comments were not enough to prove that the attorney general had infringed upon Mr. … [+2108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Sam Barsanti",
+            "title": "Obi-Wan Kenobi tires to hide from established Star Wars canon in an uneven premiere - The A.V. Club",
+            "description": "Disney Plus' latest Star Wars spin-off arrives with a somewhat surprising appearance from a certain princess",
+            "url": "https://www.avclub.com/obi-wan-kenobi-premiere-review-disney-plus-1848986945",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3d72d4eb2920dd8bab8088f619507a4e.jpg",
+            "publishedAt": "2022-05-27T16:44:23Z",
+            "content": "Theres a moment early on in the first episode of Obi-Wan Kenobis two-part premiere that, while an astute observation about how the Jedi work as characters, seems explicitly designed to be an explanat… [+8185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Warriors advance to NBA Finals without Splash Brother superpowers of past, making it all the more impressive - CBS Sports",
+            "description": "These guys are just winners, plain and simple",
+            "url": "https://www.cbssports.com/nba/news/warriors-advance-to-nba-finals-without-splash-brother-superpowers-of-past-making-it-all-the-more-impressive/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/05/27/7f67e42a-b730-4495-aa57-b0c7d5ae3988/thumbnail/1200x675/d4491bf1f3083bb910cf9044d87043f5/untitled-design-2022-05-26t225524-707.png",
+            "publishedAt": "2022-05-27T16:44:00Z",
+            "content": "In November of 2018, in the middle of what would become a four-game losing streak and a week removed the infamous Draymond Green-Kevin Durant sideline blowout, Steve Kerr told reporters that his Gold… [+6499 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Nick Shook",
+            "title": "Lamar Jackson responds to criticism over absence at voluntary OTAs, says he will join Ravens eventually - NFL.com",
+            "description": "Ravens QB Lamar Jackson took to Twitter on Friday in regards to his absence at OTAs, saying he will be there at some point ahead of a crucial fifth season.",
+            "url": "https://www.nfl.com/news/lamar-jackson-responds-to-criticism-over-absence-at-voluntary-otas-says-he-will-",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/mlp3jls4biktmkt2ivs0",
+            "publishedAt": "2022-05-27T16:36:00Z",
+            "content": "Jackson, of course, has proven his worthiness with his in-season performance, winning NFL MVP honors in 2019, earning two trips to the Pro Bowl and leading Baltimore to three playoff appearances in f… [+1062 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Vivian Salama and Yaroslav Trofimov",
+            "title": "Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East - The Wall Street Journal",
+            "description": "Fierce fighting raged in the Donbas region, with Russian forces engaging in street battles in the city of Severodonetsk as Moscow brought to bear its advantage in firepower on outgunned Ukrainian defenders.",
+            "url": "https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841",
+            "urlToImage": "https://images.wsj.net/im-553182/social",
+            "publishedAt": "2022-05-27T16:30:00Z",
+            "content": "KYIV, UkraineRussian forces made fresh gains in fierce fighting in eastern Ukraines Donbas region Friday, engaging in street battles in the city of Severodonetsk, as Moscow brought to bear its advant… [+396 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Aaron Blake",
+            "title": "Trump's election purge marches on as Wisconsin GOP commissioner resigns - The Washington Post",
+            "description": "The resignation of a statewide GOP election commissioner in Wisconsin is the latest confirmation of the trend.",
+            "url": "https://www.washingtonpost.com/politics/2022/05/27/trumps-gop-election-purge-marches-despite-setbacks-georgia/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECQTQTG47UI6ZPBVVEOQVFESHM.jpg&w=1440",
+            "publishedAt": "2022-05-27T16:17:00Z",
+            "content": "Placeholder while article actions load\r\nOn Tuesday came perhaps the biggest rebuke to date of Donald Trumps election-denier crusade, with Georgia GOP voters renominating Secretary of State Brad Raffe… [+6587 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPVI-TV"
+            },
+            "author": "Katherine Scott, 6abc Digital Staff",
+            "title": "Pottstown, Pennsylvania explosion on Hale Street leaves at least 5 dead - WPVI-TV",
+            "description": "The death toll from a Thursday night house explosion in Pottstown, Montgomery County has increased to five.",
+            "url": "https://6abc.com/pottstown-house-explosion-pa-montgomery-county-hale-street/11899768/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/11899816_052722-wpvi-pottstown-explosion-5am-vid.jpg?w=1600",
+            "publishedAt": "2022-05-27T16:07:30Z",
+            "content": "POTTSTOWN, Pennsylvania (WPVI) -- The death toll from a Thursday night house explosion in Pottstown, Montgomery County has increased.A total of five fatalities were reported by officials on Friday af… [+2901 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Dr. Oz jumps the gun, declares himself 'presumptive' GOP Senate nominee - POLITICO",
+            "description": "Pennsylvania election officials confirm that there are roughly 1,200 Republican mail-in ballots left to be adjudicated, in addition to 4,000 outstanding provisional ballots from all parties.",
+            "url": "https://www.politico.com/news/2022/05/27/dr-oz-gop-nominee-00035694",
+            "urlToImage": "https://static.politico.com/8a/54/9c6c3e04473cae4a7d622170b4c5/election-2022-senate-pennsylvania-33626.jpg",
+            "publishedAt": "2022-05-27T15:45:48Z",
+            "content": "Asked about Ozs claim to the party nomination, a spokesperson for McCormick pointed to a campaign statement earlier this week about the recount.\r\nWe are proud our campaign received nearly 418,000 vot… [+1314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "‘Top Gun: Maverick’ Roars With Massive $19.3M In Previews, Records For Tom Cruise, Paramount & Memorial Day Weekend – Box Office - Deadline",
+            "description": "After a 36 year wait, the Tom Cruise sequel Top Gun: Maverick finally took off to a massive $19.3M in previews from Thursday night 3PM showtimes and a one-time 7PM Tuesday fan event. That’s the highest grossing preview in Paramount Pictures’ history and the h…",
+            "url": "https://deadline.com/2022/05/top-gun-maverick-box-office-1235034420/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/05/top-gun-2-1-e1653660481403.jpg?w=1024",
+            "publishedAt": "2022-05-27T15:32:00Z",
+            "content": "After a 36-year wait, the Tom Cruise sequel Top Gun: Maverick finally took off to a massive $19.3 million in previews from Thursday 3 p.m. showtimes and a one-time 7 p.m. Tuesday fan event.\r\nThat’s t… [+3811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Lananh Nguyen, Emma Goldberg",
+            "title": "Goldman’s Move to Unlimited Vacation Is Good for … Goldman - The New York Times",
+            "description": "Goldman Sachs is the latest company to let workers take as much time off as they want. That means no more unused days — and no need to pay them out later.",
+            "url": "https://www.nytimes.com/2022/05/27/business/goldman-sachs-unlimited-vacation.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/05/26/business/00goldman-pto/00goldman-pto-facebookJumbo.jpg",
+            "publishedAt": "2022-05-27T15:31:05Z",
+            "content": "Mr. Mayo, the banking analyst, said he was shocked to see how many people were working in the office when he went to Goldmans headquarters for his first in-person meeting during the pandemic. Mr. Sol… [+1645 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Caitlin McCabe, Gunjan Banerji",
+            "title": "Stock Market Moves Higher as S&P 500, Nasdaq Rise - The Wall Street Journal",
+            "description": "All three major U.S. indexes on track to post weekly gains",
+            "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-05-27-2022-11653636968",
+            "urlToImage": "https://images.wsj.net/im-552910/social",
+            "publishedAt": "2022-05-27T14:32:00Z",
+            "content": "The S&amp;P 500 rose Friday morning, on track to extend a recent stretch of gains and snap a seven-week losing streak. The broad-market benchmark advanced 1.6%. The Dow Jones Industrial Average added… [+5777 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Elizabeth Grey",
+            "title": "Perspective | As an ex-heroin addict, I know getting off opioids is near impossible - The Washington Post",
+            "description": "Withdrawal is the most important aspect, and it’s barely given lip service in the response to the opioid epidemic.",
+            "url": "https://www.washingtonpost.com/health/2022/05/27/opioid-addict-epidemic-withdrawal/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PH2RGJRQV4I6TB4BOY3BT4JMWQ.jpg&w=1440",
+            "publishedAt": "2022-05-27T14:25:00Z",
+            "content": "Placeholder while article actions load\r\nIm told I dont look like a heroin addict.\r\nI am a married, middle-aged woman, a taxpaying homeowner. As privilege goes, I have it. Because Im White, I get trea… [+9112 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rodrigo Pedroso, Marcia Reverdosa, Mia Alberti and Hira Humayun, CNN",
+            "title": "Man dies in Brazilian police custody after being restrained in car filled with unknown gas - CNN",
+            "description": "Protests were held in the Brazilian city of Umbauba on Thursday following the death of a man in police custody.",
+            "url": "https://www.cnn.com/2022/05/27/americas/brazil-police-car-gas-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220526172841-umbauba-brazil-protest-super-tease.jpg",
+            "publishedAt": "2022-05-27T14:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Xiaofei Xu, Wahany Sambo, Nimi Princewill",
+            "title": "Fire that killed 11 newborn babies in Senegal hospital may have been started by short circuit, says minister - CNN",
+            "description": "A hospital fire that killed 11 newborn babies in Senegal may have been caused by an electrical short circuit, the country's health minister said Thursday.",
+            "url": "https://www.cnn.com/2022/05/26/africa/newborns-hospital-fire-senegal-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220526041917-01-senegal-babies-hospital-fire.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-05-27T13:34:00Z",
+            "content": "A hospital fire that killed 11 newborn babies in Senegal may have been caused by an electrical short circuit, the countrys health minister said Thursday.\r\nDiouf Sarr told local radio station RFM: Whe… [+2433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Webb Space Telescope To Provide Details of Two Intriguing “Super-Earths” in the Milky Way - SciTechDaily",
+            "description": "Astronomers will train Webb’s high-precision spectrographs on two intriguing rocky exoplanets. Imagine if Earth were much, much closer to the Sun. So close that an entire year would only last a few hours. So close that gravity has locked one hemisphere in per…",
+            "url": "https://scitechdaily.com/webb-space-telescope-to-provide-details-of-two-intriguing-super-earths-in-the-milky-way/",
+            "urlToImage": "https://scitechdaily.com/images/Exoplanet-55-Cancri-e-and-Its-Star-scaled.jpg",
+            "publishedAt": "2022-05-27T12:43:28Z",
+            "content": "BySpace Telescope Science InstituteMay 27, 2022\r\nIllustration showing what exoplanet 55 Cancri e could look like, based on current understanding of the planet. 55 Cancri e is a rocky planet with a di… [+11911 chars]"
+        }
+    ]
+}
