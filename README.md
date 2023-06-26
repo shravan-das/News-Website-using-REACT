@@ -2,7 +2,10 @@
 
 This is a News Website built using ReactJS, a popular JavaScript library for building user interfaces.
 
-##Screenshots of the website
+## Screenshots of the website
+![Screenshot (146)](https://github.com/shravan-das/News-Website-using-REACT/assets/100745475/eb1e9d3b-80c7-4ace-9aee-ef8f63e49cf9)
+![Screenshot (147)](https://github.com/shravan-das/News-Website-using-REACT/assets/100745475/77419f1d-806f-46c0-b670-0455b30d499f)
+
 
 ## Table of Contents
 
