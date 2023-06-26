@@ -72,6 +72,4 @@ To run the News Website, you need to have the following prerequisites installed 
 
 Contributions to the News Website are welcome! If you encounter any bugs, have feature requests, or want to contribute improvements, please submit an issue or a pull request to the GitHub repository.
 
-## License
 
-The News Website is open source and released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and use the code as per the license terms.
